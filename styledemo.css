@@ -1,0 +1,15 @@
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+    }
+    .box {
+        width: 30%;
+        padding: 20px;
+        background-color: lightblue;
+        text-align: center;
+        border: 1px solid #000;
+        }
+    .small-box{
+        padding-right: 700px;
+    }
